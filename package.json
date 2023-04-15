@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://IlchukV.github.io/team-proj-icecream",
+  "homepage": "https://dmytro-hlushchenko..github.io/Voda",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-proj-icecream/"
+    "build": "parcel build src/*.html --public-url /Voda/"
   },
   "repository": {
     "type": "git",
