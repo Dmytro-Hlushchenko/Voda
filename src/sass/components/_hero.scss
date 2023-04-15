@@ -70,13 +70,18 @@
     }
   }
 }
+
+.caption_title-water {
+  font-weight: 1000;
+  }
+
 .button-products {
-  padding: 11px 26px;
+  padding: 9px 20px;
   margin-right: 5px;
   border-radius: 10px;
   border: 2px solid $link-button-color;
-  background-color: transparent;
-  color: $text-main-color;
+  background-color: #0099ff;
+  color: white;
   font-weight: 600;
   font-size: 12px;
   line-height: 1.25;
