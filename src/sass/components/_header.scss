@@ -23,6 +23,8 @@
   }
 }
 .logo {
+  z-index: 1;
+
   width: 40px;
   @include mobile {
     height: 44px;
